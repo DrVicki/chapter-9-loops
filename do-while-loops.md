@@ -62,14 +62,14 @@ must be added to the batter one at a time. Declare the variable ```cupsAdded``` 
 <details open>
 <summary>Click to see solution!</summary>
 <br>
+  
 ```
-  let cupsOfSugarNeeded = 3;
+let cupsOfSugarNeeded = 3;
 let cupsAdded = 0;
 
 do {
  console.log(cupsAdded)
  cupsAdded++
 } while (cupsAdded < cupsOfSugarNeeded);
-                                        ```
-
+ ```
 </details>
