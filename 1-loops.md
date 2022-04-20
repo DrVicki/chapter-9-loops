@@ -20,6 +20,9 @@ As illustrated in the diagram above, loops iterate or repeat an action until a s
 
 ## Code-Along Activity: Repeat Tasks Manually
 
+![image](https://user-images.githubusercontent.com/47826697/164255236-39024da0-9d45-4761-9d81-cea35a401287.png)
+
+
 Before we write our own loops let’s take a moment to develop an appreciation for loops. The best way to do that is by
 showing you how cumbersome it would be if a repeated task required you to type out the same code every single
 time.
