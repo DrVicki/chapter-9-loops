@@ -35,6 +35,43 @@ start taking bites, you don’t know the exact number you’ll need to become fu
   - In situations when we want a loop to execute an undetermined number of times, ```while``` loops are the best choice.
 
 
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/47826697/164296281-b0d93c08-e712-4e26-82fd-a956c0f2d798.png">
 
 
 ## Activity: Now try it yourself!
+
+```
+let cards = ['diamond', 'spades', 'hearts', 'clubs'];
+```
+
+  1. Below the cards array, declare a variable, ```currentCard``` , with the ```let``` keyword but don’t assign it a value.
+  2. Create a ```while``` loop with a condition which checks if the ```currentCard``` does not have the value ```'spades'``` . Inside the block of your ```while``` loop, add the following line of code:
+
+```
+currenrCard = cards[Math.floor(Math.random() * 4)];
+```
+  ```Math.floor(Math.random() * 4)``` will give us a random number from ```0``` to ```3``` . We’ll use this number to index the cards array, and assign the value of ```currentCard``` to a random element from that array.
+    3. Awesome! Your loop is running, but you can’t tell because it doesn’t output anything. Let’s add a ```console.log()``` statement to our ```while``` block. Inside the block, after you assign ```currentCard``` a new value, log ```currentCard``` to the console.
+
+  For fun you can run your code a few times and see how the output changes!
+  
+ <img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164297237-188d45a7-137c-4347-9206-2e31a02ed7b2.png">
+
+## Solution
+  
+ <details open>
+<summary>Click to see solution!</summary>
+<br>
+  
+```
+const cards = ['diamond', 'spade', 'heart', 'club'];
+
+// Write your code below
+let currentCard;
+
+while ( currentCard != 'spade') {
+  currentCard = cards[Math.floor(Math.random() * 4)];
+	console.log(currentCard);
+}
+```
+</details>
