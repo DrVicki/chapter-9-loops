@@ -42,6 +42,7 @@ would be a tedious task!
 
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164256726-505352d5-d46b-4ecf-95a4-6b29c192b0c8.png">
 
+## Solution
 
 <details>
   <summary>Click to see Solution</summary>
