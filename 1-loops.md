@@ -18,7 +18,7 @@ As illustrated in the diagram above, loops iterate or repeat an action until a s
   - When the condition is met, the loop stops and the computer moves on to the next part of the program.
 
 
-## Code-Along ActivityL Repeat Tasks Manually
+## Code-Along Activity: Repeat Tasks Manually
 
 Before we write our own loops let’s take a moment to develop an appreciation for loops. The best way to do that is by
 showing you how cumbersome it would be if a repeated task required you to type out the same code every single
