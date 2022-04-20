@@ -52,8 +52,12 @@ for the inner array. If the current element from the outer loop is the same as t
 the element into the ```mutualFollowers``` array.
 
 
-## <details>
-  <summary>Click to see solution!</summary>
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164288393-a6042c6c-9de3-4d45-920d-2d95fd3151bc.png">
+
+## Solution
+
+<details>
+ ## <summary>Click to see solution!</summary>
   
   ## Solution
   
