@@ -30,6 +30,7 @@ for (let counter = 0; counter <= 3; counter++){
 
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164259501-2b0f2c50-71d7-4469-b391-70e15f66bab2.png">
 
+## Solution
 
 <details>
   <summary>Click to see solution!</summary>
