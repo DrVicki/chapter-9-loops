@@ -36,3 +36,22 @@ Now let's break apart te wxample.
   - The stopping condition is ```counter < 4``` , meaning the loop will run as long as the iterator variable, counter , is less than 4.
   - The iteration statement is ```counter++``` . This means after each loop, the value of counter will increase by 1. For the first iteration ```counter``` will equal ```0``` , for the second iteration ```counter``` will equal ```1```, and so on.
   - The code block is inside of the curly braces, ```console.log(counter)``` , will execute until the condition evaluates to false . The condition will be false when ```counter``` is greater than or equal to ```4``` — the point twhen the condition becomes false is sometimes called the **stop condition**.
+
+
+## Activity: Now Make Your Own ```forLoop```
+
+Create a program which loops from ```5``` to ```10``` and logs each number to the console.
+
+
+<details>
+  <summary>Click to see solution!</summary>
+  
+  ## Solution
+  
+ ```
+  for (let counter = 5; counter < 11; counter++) {
+  console.log(counter);
+} 
+```
+</details>
+
