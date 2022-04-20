@@ -18,9 +18,12 @@ As illustrated in the diagram above, loops iterate or repeat an action until a s
   - When the condition is met, the loop stops and the computer moves on to the next part of the program.
 
 
-## Code-Along Activity: Repeat Tasks Manually
 
-![image](https://user-images.githubusercontent.com/47826697/164255236-39024da0-9d45-4761-9d81-cea35a401287.png)
+
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/47826697/164257352-7cc0573d-77d7-4352-9c9e-2bd062a5c245.png">
+
+## Code-Along Activity: Repeat Tasks Manually
 
 
 Before we write our own loops let’s take a moment to develop an appreciation for loops. The best way to do that is by
@@ -34,7 +37,10 @@ Stuck? Get a hint
 3. Nice work! Now imagine the vacation list had 100 places on it— logging each array element to the console by hand
 would be a tedious task! 
 
-In the next exercise, we will learn how to make things more efficient with for loops.
+
+
+
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164256726-505352d5-d46b-4ecf-95a4-6b29c192b0c8.png">
 
 
 <details>
@@ -50,3 +56,7 @@ In the next exercise, we will learn how to make things more efficient with for l
   console.log(vacationSpots[2]);
   ```
 </details>
+
+
+In the next exercise, we will learn how to make things more efficient with for loops.
+
