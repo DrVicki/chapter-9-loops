@@ -4,7 +4,8 @@
 
 ![](https://github.com/DrVicki/get-started-with-loops/blob/main/images/1-loops-img%20(1).png)
 
-
+## Please feel free to join a discussion about "Loops" [Here](https://github.com/DrVicki/get-started-with-loops/discussions/1) !!
+ 
 In this hands-on tutorial, you will learn how to write cleaner code with loops. You will know:
 
 
