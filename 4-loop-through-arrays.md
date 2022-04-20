@@ -49,6 +49,8 @@ let vacationSpots = ['Bali', 'Paris' 'Tulum'];
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164264850-926d3dc5-39cd-4e26-aef8-593d5b67bf47.png">
 
 
+## Solution
+
 <details>
   <summary>Click to see solution!</summary>
   
