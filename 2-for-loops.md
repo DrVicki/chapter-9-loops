@@ -30,7 +30,7 @@ The output would be the following:
 3
 ```
 
-Now let's break apart te wxample.
+Now let's break apart the example.
 
   - The initialization is ```let counter = 0``` , so the loop will start counting at ``0`` .
   - The stopping condition is ```counter < 4``` , meaning the loop will run as long as the iterator variable, counter , is less than 4.
@@ -39,6 +39,8 @@ Now let's break apart te wxample.
 
 
 ## Activity: Now Make Your Own ```forLoop```
+
+![image](https://user-images.githubusercontent.com/47826697/164255024-80893a21-db22-4a0d-b729-7b00e79bc0e3.png)
 
 Create a program which loops from ```5``` to ```10``` and logs each number to the console.
 
