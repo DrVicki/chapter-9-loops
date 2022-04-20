@@ -51,7 +51,7 @@ Create a program which loops from ```5``` to ```10``` and logs each number to th
 
 <img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164258066-44a750f5-3d53-413b-beb1-1b137f02bb19.png">
 
-
+## Solution
 
 <details>
   <summary>Click to see solution!</summary>
