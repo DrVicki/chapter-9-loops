@@ -38,16 +38,25 @@ Now let's break apart the example.
   - The code block is inside of the curly braces, ```console.log(counter)``` , will execute until the condition evaluates to false . The condition will be false when ```counter``` is greater than or equal to ```4``` — the point twhen the condition becomes false is sometimes called the **stop condition**.
 
 
+
+<img width="144" alt="image" src="https://user-images.githubusercontent.com/47826697/164257793-2fbb512d-ea96-4518-b183-283b066cd301.png">
+
+
 ## Activity: Now Make Your Own ```forLoop```
 
-![image](https://user-images.githubusercontent.com/47826697/164255024-80893a21-db22-4a0d-b729-7b00e79bc0e3.png)
 
 Create a program which loops from ```5``` to ```10``` and logs each number to the console.
+
+
+
+<img width="159" alt="image" src="https://user-images.githubusercontent.com/47826697/164258066-44a750f5-3d53-413b-beb1-1b137f02bb19.png">
+
 
 
 <details>
   <summary>Click to see solution!</summary>
   
+ 
   ## Solution
   
  ```
